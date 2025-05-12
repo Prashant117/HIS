@@ -6,9 +6,9 @@
 
 ## 🌐 Live Preview
 
-_Optional: Add deployed URL here if hosted (e.g., Vercel, Netlify)._
+_Not Ready Yet_
 
----
+<!-- ---
 
 ## 📸 Screenshots
 
@@ -16,7 +16,7 @@ _Optional: Add deployed URL here if hosted (e.g., Vercel, Netlify)._
 ![Sidebar with submenus](./path-to-sidebar-screenshot.png)
 
 ### Dashboard Stats
-![Dashboard Overview](./path-to-dashboard-screenshot.png)
+![Dashboard Overview](./path-to-dashboard-screenshot.png) -->
 
 ---
 
@@ -58,5 +58,5 @@ _Optional: Add deployed URL here if hosted (e.g., Vercel, Netlify)._
 
 ---
 
-## 🧭 Folder Structure
+<!-- ## 🧭 Folder Structure -->
 
